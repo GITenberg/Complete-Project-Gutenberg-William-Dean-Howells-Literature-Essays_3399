@@ -1,5 +1,5 @@
 _repo: Complete-Project-Gutenberg-William-Dean-Howells-Literature-Essays_3399
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Literature -- History and criticism'
 - !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
 tableOfContents: Literary friends and acquaintance -- Literature and life -- My literary
   passions -- Criticism and fiction.
 title: Complete Project Gutenberg William Dean Howells Literature Essays
